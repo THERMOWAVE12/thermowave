@@ -1,0 +1,33 @@
+
+.navbar{
+    font-size: 16px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+}
+
+#navbarResponsive{
+    background-color: white;
+}
+
+.jumbotron{
+    height: 35rem;
+    background: linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)), url("../images/home.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.hero-h3{
+    font-style: italic;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar-brand{
+        font-size: 16px;
+    }
+  }
