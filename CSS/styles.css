@@ -26,6 +26,11 @@
     font-style: italic;
 }
 
+
+.parts{
+    line-height: 3rem;
+}
+
 @media only screen and (max-width: 600px) {
     .navbar-brand{
         font-size: 16px;
