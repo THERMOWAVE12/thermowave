@@ -8,7 +8,7 @@
     var modal = $(this)
     modal.find('.modal-body .form-name').val(recipient)
     modal.find('.modal-title').text('New message to ' + recipient)
-    // modal.find('.modal-body form').attr('name', recipient)
+    modal.find('.modal-body form').attr('name', recipient)
     });
   
     $(window).scroll(function () {
