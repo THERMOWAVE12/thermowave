@@ -1,4 +1,11 @@
+.soon{
+    font-size: 60px;
+}
 
+tr{
+    height: 60px;
+    font-size: larger;
+}
 .navbar{
     font-size: 16px;
 }
