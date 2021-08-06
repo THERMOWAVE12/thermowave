@@ -3,8 +3,11 @@
 }
 
 tr{
-    height: 60px;
-    font-size: larger;
+    height: 70px;
+    font-size: 1.5rem;
+}
+td{
+    font-size: 1.4rem;
 }
 .navbar{
     font-size: 16px;
